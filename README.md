@@ -89,7 +89,7 @@ A food delivery application with a professional interface and smooth user experi
 
 ### 🛒 E-Commerce Dashboard (Flutter Web)
 An admin dashboard for an e-commerce store to manage products and orders
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ShiroYasha211)
+[![GitHub]([https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ShiroYasha211](https://github.com/ShiroYasha211/Shoply_Admin_Dashboard))
 
 </div>
 
