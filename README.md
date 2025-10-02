@@ -9,15 +9,13 @@
 # 💫 About Me:
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+🎓 B.Sc. in Computer Information Systems
+📱 Flutter Developer | Mobile App Developer | Web Developer
+💼 4+ Years of Programming Experience | 2+ Years Specialized in Flutter
 
-🎓 **بكالوريوس في نظم المعلومات الحاسوبية**  
-📱 **Flutter Developer | Mobile App Developer | Web Developer**  
-💼 **4+ سنوات خبرة في البرمجة | 2+ سنوات متخصص Flutter**  
+🚀 About Me:
 
-### 🚀 عني:
-شغوف بتطوير تطبيقات الموبايل والويب باستخدام Flutter. لدي خبرة عملية في بناء تطبيقات متنوعة مثل المنتديات، أنظمة التوصيل، ولوحات التحكم. أسعى لابتكار حلول برمجية احترافية وتحويل الأفكار إلى تطبيقات قابلة للاستخدام.
-
----
+Passionate about building mobile and web applications using Flutter. I have hands-on experience developing various projects such as forums, delivery systems, and admin dashboards. My goal is to create professional software solutions and transform ideas into real-world applications.
 
 ## 🛠️ Tech Stack & Skills:
 
@@ -78,22 +76,19 @@
 <div align="center">
 
 ### 📱 Forum App (Flutter + Laravel)
-*تطبيق منتدى متكامل مع نظام المستخدمين والمنشورات والتعليقات*
-
+A complete forum application with user system, posts, and comments
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ShiroYasha211)
 
 ---
 
 ### 🍕 Food Delivery App (Flutter)
-*تطبيق توصيل طعام بواجهة احترافية وتجربة مستخدم سلسة*
-
+A food delivery application with a professional interface and smooth user experience
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ShiroYasha211)
 
 ---
 
 ### 🛒 E-Commerce Dashboard (Flutter Web)
-*لوحة تحكم لمتجر إلكتروني لإدارة المنتجات والطلبات*
-
+An admin dashboard for an e-commerce store to manage products and orders
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github)](https://github.com/ShiroYasha211)
 
 </div>
